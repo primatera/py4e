@@ -8,8 +8,8 @@ print("Python for Everybody - Assignments\n")
 
 # Course 1: Getting Started with Python
 #import optional_assignment
-import assignment1
-
+#import assignment1
+import assignment2_3
 
 
 # Alternate way of call python scripts
