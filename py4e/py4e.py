@@ -9,8 +9,9 @@ print("Python for Everybody - Assignments\n")
 # Course 1: Getting Started with Python
 #import optional_assignment
 #import assignment1
-import assignment2_3
-
+#import assignment2_3
+#import assignment3_1
+import assignment3_3
 
 # Alternate way of call python scripts
 #from subprocess import call
