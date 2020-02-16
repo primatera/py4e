@@ -5,7 +5,7 @@
     <ProjectGuid>d96416db-64d2-4ba9-a5e0-52147cd8f6b4</ProjectGuid>
     <ProjectHome>.</ProjectHome>
     <StartupFile>py4e.py</StartupFile>
-    <SearchPath>getting_started</SearchPath>
+    <SearchPath>getting_started;data_structures</SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
     <Name>py4e</Name>
@@ -20,6 +20,9 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="data_structures\assignment6_5.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="getting_started\assignment1.py" />
     <Compile Include="getting_started\assignment2_3.py">
       <SubType>Code</SubType>
@@ -44,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="getting_started\" />
+    <Folder Include="data_structures\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="getting_started\optional_assignment - edit python.png" />

@@ -13,8 +13,13 @@ print("Python for Everybody - Assignments\n")
 #import assignment3_1
 #import assignment3_3
 #import assignment4_6
-import assignment5_2
+#import assignment5_2
+
 
 # Alternate way of call python scripts
 #from subprocess import call
 #call(["python", "./getting_started/assignment1.py"])
+
+# Course 2: Data Structures
+import assignment6_5
+
