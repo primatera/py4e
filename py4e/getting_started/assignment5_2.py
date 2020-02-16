@@ -8,26 +8,20 @@ largest = None
 smallest = None
 while True:
     num = input("Enter a number: ")
-    #exception handling: ensure num is a 'numeric'
-    if num != "done":
-        try:
-            num = int(num)
-        except:
-            print("Invalid input")
-            continue
-
     if num == "done" : break
-#    print(num)
+    #exception handling: ensure num is a 'numeric'
+    try:
+        num = int(num)
+    except:
+        print("Invalid input")
+        continue
+
     #look for larger number
-    if largest is None:
-        largest = num
-    elif num > largest:
+    if largest is None or num > largest:
         largest = num
 
     #look for smaller number
-    if smallest is None:
-        smallest = num
-    elif num < smallest:
+    if smallest is None or num < smallest:
         smallest = num
 
 print("Maximum is", largest)
