@@ -13,7 +13,7 @@ print("Python for Everybody - Assignments\n")
 #import assignment3_1
 #import assignment3_3
 #import assignment4_6
-import assignment5_2
+#import assignment5_2
 
 
 # Alternate way of call python scripts
@@ -25,3 +25,4 @@ import assignment5_2
 #import assignment7_2
 #import assignment8_4
 #import assignment8_5
+import assignment9_4
