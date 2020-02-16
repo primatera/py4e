@@ -33,6 +33,9 @@
     <Compile Include="getting_started\assignment4_6.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="getting_started\assignment5_2.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="getting_started\optional_assignment.py" />
     <Compile Include="steam_webscrape.py">
       <SubType>Code</SubType>
