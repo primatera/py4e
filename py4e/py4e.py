@@ -11,7 +11,8 @@ print("Python for Everybody - Assignments\n")
 #import assignment1
 #import assignment2_3
 #import assignment3_1
-import assignment3_3
+#import assignment3_3
+import assignment4_6
 
 # Alternate way of call python scripts
 #from subprocess import call
