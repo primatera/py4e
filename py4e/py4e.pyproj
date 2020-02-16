@@ -26,6 +26,9 @@
     <Compile Include="data_structures\assignment7_2.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="data_structures\assignment8_4.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="getting_started\assignment1.py" />
     <Compile Include="getting_started\assignment2_3.py">
       <SubType>Code</SubType>
