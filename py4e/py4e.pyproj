@@ -23,6 +23,9 @@
     <Compile Include="data_structures\assignment6_5.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="data_structures\assignment7_2.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="getting_started\assignment1.py" />
     <Compile Include="getting_started\assignment2_3.py">
       <SubType>Code</SubType>
@@ -40,9 +43,6 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="getting_started\optional_assignment.py" />
-    <Compile Include="steam_webscrape.py">
-      <SubType>Code</SubType>
-    </Compile>
     <Compile Include="py4e.py" />
   </ItemGroup>
   <ItemGroup>
@@ -52,6 +52,7 @@
   <ItemGroup>
     <Content Include="getting_started\optional_assignment - edit python.png" />
     <Content Include="getting_started\optional_assignment - run python.png" />
+    <Content Include="mbox-short.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in

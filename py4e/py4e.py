@@ -21,5 +21,5 @@ print("Python for Everybody - Assignments\n")
 #call(["python", "./getting_started/assignment1.py"])
 
 # Course 2: Data Structures
-import assignment6_5
-
+#import assignment6_5
+import assignment7_2

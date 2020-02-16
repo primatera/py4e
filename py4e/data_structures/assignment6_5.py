@@ -7,6 +7,5 @@ text = "X-DSPAM-Confidence:    0.8475";
 # parse out number
 colon_position = text.find(':')
 number = text[colon_position+1: ].strip()
-
 number = float(number)
 print(number)
