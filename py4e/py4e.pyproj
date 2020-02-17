@@ -20,6 +20,9 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="data_structures\assignment10_2.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="data_structures\assignment6_5.py">
       <SubType>Code</SubType>
     </Compile>

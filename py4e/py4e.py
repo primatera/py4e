@@ -25,4 +25,5 @@ print("Python for Everybody - Assignments\n")
 #import assignment7_2
 #import assignment8_4
 #import assignment8_5
-import assignment9_4
+#import assignment9_4
+import assignment10_2
