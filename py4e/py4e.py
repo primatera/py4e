@@ -28,5 +28,6 @@ print("Python for Everybody - Assignments\n")
 #import assignment10_2
 
 # Course 3: Using Python to Access Web Data
-import assignment_regex
+#import assignment_regex
 #import assignment_regex_short
+import assignment_req_resp_cycle
