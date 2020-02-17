@@ -15,7 +15,6 @@ print("Python for Everybody - Assignments\n")
 #import assignment4_6
 #import assignment5_2
 
-
 # Alternate way of call python scripts
 #from subprocess import call
 #call(["python", "./getting_started/assignment1.py"])
@@ -26,4 +25,8 @@ print("Python for Everybody - Assignments\n")
 #import assignment8_4
 #import assignment8_5
 #import assignment9_4
-import assignment10_2
+#import assignment10_2
+
+# Course 3: Using Python to Access Web Data
+import assignment_regex
+#import assignment_regex_short
