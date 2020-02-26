@@ -31,4 +31,5 @@ print("Python for Everybody - Assignments\n")
 #import assignment_regex
 #import assignment_regex_short
 #import assignment_req_resp_cycle
-import assignment_scrape_html_data
+#import assignment_scrape_html_data
+import assignment_following_links
