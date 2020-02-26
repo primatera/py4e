@@ -5,7 +5,7 @@
     <ProjectGuid>d96416db-64d2-4ba9-a5e0-52147cd8f6b4</ProjectGuid>
     <ProjectHome>.</ProjectHome>
     <StartupFile>py4e.py</StartupFile>
-    <SearchPath>getting_started;data_structures;access_web_data</SearchPath>
+    <SearchPath>getting_started;data_structures;access_web_data;access_web_data\bs4</SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
     <Name>py4e</Name>
@@ -27,6 +27,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="access_web_data\assignment_req_resp_cycle.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="access_web_data\assignment_scrape_html_data.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="data_structures\assignment10_2.py">

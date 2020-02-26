@@ -8,6 +8,7 @@
 # Open the URL in a web browser with a developer console or FireBug and manually examine the headers that are returned.
 # Use the telnet program as shown in lecture to retrieve the headers and content.
 
+from datetime import datetime
 import socket
 
 my_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
@@ -22,3 +23,6 @@ while True:
     print(data.decode())
 
 my_socket.close()
+
+
+print(datetime.fromtimestamp(1581952248).strftime("%Y-%m-%d %H:%M:%S"))
