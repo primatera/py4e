@@ -35,6 +35,9 @@
     <Compile Include="access_web_data\assignment_scrape_html_data.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="access_web_data\assignment_xml.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="data_structures\assignment10_2.py">
       <SubType>Code</SubType>
     </Compile>
