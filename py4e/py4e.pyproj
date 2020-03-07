@@ -23,6 +23,9 @@
     <Compile Include="access_web_data\assignment_following_links.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="access_web_data\assignment_json.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="access_web_data\assignment_regex.py">
       <SubType>Code</SubType>
     </Compile>
