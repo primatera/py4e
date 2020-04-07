@@ -47,6 +47,9 @@
     <Compile Include="databases\assignment_counting_email_in_db.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="databases\assignment_many_students_in_many_classes.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="databases\assignment_multitable_db.py">
       <SubType>Code</SubType>
     </Compile>
