@@ -5,7 +5,7 @@
     <ProjectGuid>d96416db-64d2-4ba9-a5e0-52147cd8f6b4</ProjectGuid>
     <ProjectHome>.</ProjectHome>
     <StartupFile>py4e.py</StartupFile>
-    <SearchPath>getting_started;data_structures;access_web_data;access_web_data\bs4</SearchPath>
+    <SearchPath>getting_started;data_structures;access_web_data;access_web_data\bs4;databases</SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
     <Name>py4e</Name>
@@ -42,6 +42,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="access_web_data\assignment_xml.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="databases\assignment_counting_email_in_db.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="data_structures\assignment10_2.py">
@@ -82,11 +85,16 @@
     <Compile Include="py4e.py" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="databases\" />
     <Folder Include="getting_started\" />
     <Folder Include="data_structures\" />
     <Folder Include="access_web_data\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="databases\ages.db" />
+    <Content Include="databases\ages.db-journal" />
+    <Content Include="databases\sql1.db" />
+    <Content Include="databases\sql3.db" />
     <Content Include="getting_started\optional_assignment - edit python.png" />
     <Content Include="getting_started\optional_assignment - run python.png" />
     <Content Include="mbox-short.txt" />
